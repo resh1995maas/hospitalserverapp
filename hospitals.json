@@ -1,0 +1,27 @@
+[
+  {
+    "Name of the hospital": "Cosmopolitan hospital",
+    "Patient Count": 900,
+    "Hospital location": "Thiruvananthapuram"
+  },
+  {
+    "Name of the hospital": "Credence hospital",
+    "Patient Count": 950,
+    "Hospital location": "Thiruvananthapuram"
+  },
+  {
+    "Name of the hospital": "SAT hospial",
+    "Patient Count": 1000,
+    "Hospital location": "Thiruvananthapuram"
+  },
+  {
+    "Name of the hospital": "SUT hospital",
+    "Patient Count": 800,
+    "Hospital location": "Thiruvananthapuram"
+  },
+  {
+    "Name of the hospital": "KIMS hospital",
+    "Patient Count": 900,
+    "Hospital location": "Thiruvananthapuram"
+  }
+]
